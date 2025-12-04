@@ -1,4 +1,4 @@
-# Maternal-AI 🤰
+# Maternal-AI
 
 An AI-powered maternal health assistant utilizing fine-tuned LLaMA 2 language model to provide guidance and support for expectant mothers.
 

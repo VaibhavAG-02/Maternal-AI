@@ -1,0 +1,33 @@
+# Core ML/AI Frameworks
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+peft>=0.6.0
+bitsandbytes>=0.41.0
+trl>=0.7.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+datasets>=2.14.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# HuggingFace Integration
+huggingface_hub>=0.19.0
+
+# Utilities
+tqdm>=4.65.0
+scipy>=1.11.0
+safetensors>=0.4.0
+
+# Deployment (for Colab)
+pyngrok>=6.0.0
+
+# Optional: Training Monitoring
+tensorboard>=2.14.0
+# wandb>=0.15.0  # Uncomment if using Weights & Biases
+
+# Note: For Google Colab users, most packages are pre-installed
+# This file is primarily for local deployment
